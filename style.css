@@ -1,0 +1,68 @@
+body {background: url(pozadí.jfif);
+    font-family: sans-serif;
+    background-color: burlywood;
+    margin:0px
+    
+    
+}
+
+.menu {
+    width: 350px;
+    margin: auto;
+    padding: 25px;
+    background:  burlywood;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+    color: #004400;
+    font-weight: bold;
+}
+
+.est {
+    margin: 5px 0 15px;
+    font-style: italic;
+    color: #444;
+}
+
+h2 {
+    margin-top: 25px;
+    font-size: 22px;
+    color: #550000;
+}
+ 
+.items {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+    text-align: left;
+    
+}
+.párek { width:48px ;
+    height: 36px
+    ;}
+    
+.items li {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    font-size: 16px;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.address {
+    font-size: 14px;
+    color: #333;
+}
+
+.address a {
+    color: #0033cc;
+    text-decoration: none;
+}
